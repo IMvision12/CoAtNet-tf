@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/IMvision12/ViT-tf/blob/main/images/2.PNG" width="260" alt="image1">
+  <img src="https://github.com/IMvision12/CoAtNet-tf/blob/main/img/model.PNG" width="260" alt="image1">
 </p>
